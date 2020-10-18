@@ -1,2 +1,2 @@
 run:
-	go run logistica.go
+	go run finanzas.go
