@@ -1,3 +1,2 @@
 run:
-	cd Tarea1Dist/grpc/
-	go run logistica.go
+	go run Tarea1Dist/grpc/logistica.go
