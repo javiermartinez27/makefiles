@@ -1,2 +1,2 @@
 run:
-	go run camion.go
+	go run cliente.go
