@@ -1,2 +1,2 @@
 run:
-	go run cliente.go
+	go run admin.go
