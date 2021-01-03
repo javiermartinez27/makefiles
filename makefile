@@ -1,2 +1,2 @@
 run:
-	go run Broker.go
+	go run DNS.go
